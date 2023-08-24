@@ -1,4 +1,5 @@
-# """def demo():
+#python practicing programs 
+#"""def demo():
 #     def function1(z):
 #         count=0
 #         for p in range(1,z+1):
